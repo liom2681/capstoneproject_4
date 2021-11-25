@@ -13,7 +13,7 @@
   # 4. 시각화
   
   # 5. 웹페이지 구현
-  1. 메인화면
+ 1. 메인화면
   ![image](https://user-images.githubusercontent.com/43162507/143426223-397ff1a0-2835-4057-9368-e52c7132cd32.png)
 
  2. 로그인 화면
