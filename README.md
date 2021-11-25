@@ -15,14 +15,14 @@
   # 5. 웹페이지 구현
  1. 메인화면
  
- ![image](https://user-images.githubusercontent.com/43162507/143426223-397ff1a0-2835-4057-9368-e52c7132cd32.png)
+![image](https://user-images.githubusercontent.com/43162507/143426223-397ff1a0-2835-4057-9368-e52c7132cd32.png)
 
  2. 로그인 화면
  
- ![image](https://user-images.githubusercontent.com/43162507/143426286-89000bcf-3378-4326-bb97-8b9e5456bc4a.png)
+![image](https://user-images.githubusercontent.com/43162507/143426286-89000bcf-3378-4326-bb97-8b9e5456bc4a.png)
 
  3. 마이페이지 화면
 ![image](https://user-images.githubusercontent.com/43162507/143426321-d173caf5-2fb9-4d51-8146-323db609c7dd.png)
 
  4. 마이페이지 작성한 글 목록
- ![image](https://user-images.githubusercontent.com/43162507/143426374-20d73544-0efa-48b1-9ae3-bc647a46f216.png)
+![image](https://user-images.githubusercontent.com/43162507/143426374-20d73544-0efa-48b1-9ae3-bc647a46f216.png)
